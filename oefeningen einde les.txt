@@ -26,10 +26,9 @@ https://api.github.com/repos/d4andj/d4andj.github.io/commits/4dc4569771a3228beaf
 
 Construeer een URL om alle openbare repositories op GitHub op te halen die zijn geschreven in een specifieke programmeertaal, bijvoorbeeld Python.
 
+https://api.github.com/search/repositories?q=language:python
 
-
-Rick and Morty
- Gebruik de Rick and Morty API om een lijst met afleveringen op te halen, inclusief details zoals naam, afleveringsnummer en datum van uitzending.
+Gebruik de Rick and Morty API om een lijst met afleveringen op te halen, inclusief details zoals naam, afleveringsnummer en datum van uitzending.
  Laat gebruikers zoeken op personage of seizoen.
 REST?
 Probeer een vorig api verzoek uit te voeren via een python script.
