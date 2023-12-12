@@ -1,0 +1,15 @@
+**https://restcountries.com/#fields**
+
+bevolking van zwitserlang
+
+[https://restcountries.com/v3.1/name/swiss?fields=population](https://restcountries.com/v3.1/name/swiss?fields=population)
+
+
+landen met EURO
+
+[https://restcountries.com/v3.1/currency/euro?fields=name](https://restcountries.com/v3.1/currency/euro?fields=name)
+
+
+opgegeven land opzoeken
+
+[https://restcountries.com/v3.1/name/belgium]([https://restcountries.com/v3.1/name/belgium)
